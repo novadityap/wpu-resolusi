@@ -3,6 +3,7 @@ rencana konten wpu
   * es6
   * framework
    - vue
+   - react
 - struktur data
 - php
  - laravel
