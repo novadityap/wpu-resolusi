@@ -2,3 +2,5 @@ wpu resolusi
 - buat website laravel
 - buat website javascript
 - buat website php
+- buat website react
+- buat website django
